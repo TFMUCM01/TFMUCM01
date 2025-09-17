@@ -1,4 +1,4 @@
-# AsesorIA — Análisis Financiero & Sentimiento
+# AsesorIA — Análisis Financiero & Sentimiento          Grupo#4 - 2025
 ## Desarrollo de un sistema de análisis financiero y sostenible del mercado bursátil europeo
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TFMUCM01/TFM/blob/main/)
