@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/TFMUCM01/TFM/main/docs/logo.png" alt="AsesorIA Logo" width="60"/> AsesorIA — Análisis Financiero & Sentimiento
+# AsesorIA — Análisis Financiero & Sentimiento
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TFMUCM01/TFM/blob/main/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/TFMUCM01/TFM)
