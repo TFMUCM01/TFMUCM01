@@ -22,7 +22,7 @@ El trabajo abarca desde la **optimización de portafolios** y la **evaluación d
 | **Fuentes / Noticias** | Yahoo Finance, TradingView, ABC, BBC, El País, Expansión, The Times, Bloomberg, El Economista |
 | **Ambientes / Programas** | Google Colab, Visual Studio, n8n, Cloudflared, Docker, Tableau, Snowflake, SharePoint |
 | **Lenguajes / Librerías** | Python, SQL, Pandas, NumPy, Plotly, Seaborn, Matplotlib, Statsmodels, Transformers, PyTorch |
-| **Modelos / Técnicas** | CAPM, Optimización de Portafolio, Series temporales, NLP, Sentiment Analysis, Deep Learning |
+| **Modelos / Técnicas** | CAPM, Optimización de Portafolio, NLP, Sentiment Analysis, Deep Learning |
 | **Automatización / Infraestructura** | GitHub Actions, n8n Workflows, CI/CD, Data Warehouse, API Integrations, Contenedores |
 
 ---
