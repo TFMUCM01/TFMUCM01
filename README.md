@@ -1,5 +1,5 @@
-# AsesorIA — Análisis Financiero & Sentimiento          Grupo#4 - 2025
-## Desarrollo de un sistema de análisis financiero y sostenible del mercado bursátil europeo
+# AsesorIA — Análisis Financiero & Sentimiento          
+## Grupo#4 - 2025 | Desarrollo de un sistema de análisis financiero y sostenible del mercado bursátil europeo
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TFMUCM01/TFM/blob/main/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/TFMUCM01/TFM)
